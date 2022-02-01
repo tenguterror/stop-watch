@@ -1,3 +1,7 @@
+// This builds out a stop watch on a site using async setInterval
+// Had help with https://github.com/mdn/learning-area/blob/main/javascript/asynchronous/loops-and-intervals/setinterval-stopwatch.html
+// Put a little twist with file structure and anaonymous functions.
+
 let secondCount = 0;
 
 let stopWatch;
